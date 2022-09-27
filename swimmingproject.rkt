@@ -1,7 +1,5 @@
 #lang typed/racket
 ;;Andrew Chen
-;;Project 3
-;;CS 151 Autumn 2021
 (require "../include/cs151-core.rkt")
 (require "../include/cs151-image.rkt")
 (require "../include/cs151-universe.rkt")
